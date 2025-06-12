@@ -1,4 +1,4 @@
-# Testing protected/private methods of a trait
+# Testing protected or private methods of a trait
 
 I need to test the protected or private method `myNonPublic Method()` of my trait `MyTrait`:
 ```php
