@@ -1,5 +1,10 @@
 # Testing consecutive calls to the same method
 
+- [The old way with PHPUnit](#the-old-way-with-phpunit)
+- [The new way with Mockery](#the-new-way-with-mockery)
+- [The best way: Mockery + `TestWith` attribute](#the-best-way--mockery----testwith--attribute)
+- [`TestWith` vs `DataProvider`](#-testwith--vs--dataprovider-)
+
 ## The old way with PHPUnit
 Given that:
 1) "`withConsecutive()` has been removed in PHPUnit 10" (see [here](https://github.com/sebastianbergmann/phpunit/issues/5063));
