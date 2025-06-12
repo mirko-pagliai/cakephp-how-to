@@ -84,7 +84,7 @@ Process finished with exit code 1
 ```
 
 Also note how PhpStorm diplays the same thing on the screen:
-![Screenshot_20250612_150757.png](Screenshot_20250612_150757.png)
+![Screenshot_20250612_150757.png](images/Screenshot_20250612_150757.png)
 
 ## `TestWith` vs `DataProvider`
 In addition to `TestWith`, PHPUnit also provides the `DataProvider` attribute ([documentation](https://docs.phpunit.de/en/10.5/attributes.html#dataprovider)).
